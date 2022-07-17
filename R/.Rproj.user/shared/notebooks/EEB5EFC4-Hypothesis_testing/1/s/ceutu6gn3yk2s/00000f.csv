@@ -1,6 +1,0 @@
-"0","activity_sleep_weight$weekday <- weekdays(activity_sleep_weight$activity_date)"
-"0","activity_sleep_weight$weekday <- factor(activity_sleep_weight$weekday, levels = c(""Monday"", "
-"0","    ""Tuesday"", ""Wednesday"", ""Thursday"", ""Friday"", ""Saturday"",""Sunday""))"
-"0",""
-"0","activity_sleep_weight_orderd <- activity_sleep_weight[order(activity_sleep_weight$weekday),]"
-"0","activity_sleep_weight_orderd"

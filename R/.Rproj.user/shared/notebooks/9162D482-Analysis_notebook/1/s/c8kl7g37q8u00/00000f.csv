@@ -1,5 +1,0 @@
-"0","users_summary_weight_no_tatal <- users_summary_weight %>% filter(users_perc < 100)"
-"0","View(users_summary_weight_no_tatal)"
-"0","users_summary_weight_no_tatal$users_perc_lbl <- str_c(users_summary_weight_no_tatal$users_perc,""%"")"
-"0",""
-"0","users_summary_weight_no_tatal"

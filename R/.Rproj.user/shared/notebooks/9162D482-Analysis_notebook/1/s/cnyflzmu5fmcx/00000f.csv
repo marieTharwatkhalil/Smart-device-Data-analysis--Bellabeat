@@ -1,3 +1,0 @@
-"0","users_percent$user_percentage <- round((users_percent$user_count/24)*100,1)"
-"0","users_percent$user_percentage_lbl <- str_c(users_percent$user_percentage,""%"")"
-"0","users_percent"

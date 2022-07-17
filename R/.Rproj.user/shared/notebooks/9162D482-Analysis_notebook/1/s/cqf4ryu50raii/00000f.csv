@@ -1,5 +1,0 @@
-"0","users_per_day <- activity_sleep_weight %>%"
-"0","  group_by(activity_date) %>% "
-"0","  summarise(users_count = n())"
-"0",""
-"0","users_per_day"

@@ -1,6 +1,0 @@
-"0","active_dormant <- data.frame(users_activity = c(""Active"", ""Dormant""), "
-"0","                             users_count = c(24,10),"
-"0","                             users_percent = c(round((24/34)*100),round((10/34)*100)),"
-"0","                             users_percent_lbl = c(str_c(round((24/34)*100),""%""),str_c(round((10/34)*100),""%"")))"
-"0",""
-"0","active_dormant"

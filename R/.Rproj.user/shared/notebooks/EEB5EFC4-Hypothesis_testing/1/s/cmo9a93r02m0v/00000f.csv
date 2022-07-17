@@ -1,7 +1,0 @@
-"0","ggplot(data = users_per_day) +"
-"0","  geom_density(aes(x = as.integer(users_count) ), colour = ""red"", show.legend = FALSE)+"
-"0","  xlim(9,18)+"
-"0","  xlab("" Number of active users"")+"
-"0","  ylab(""Density"")+"
-"0","  ggtitle(""Density of Active users per day"","
-"0","          subtitle = ""N = 24 \n Duration: 13 Apr to 13 May"")"

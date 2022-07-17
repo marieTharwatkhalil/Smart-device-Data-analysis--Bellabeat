@@ -1,2 +1,0 @@
-"0","par(mfrow = c(1,2))"
-"0","hist(x_Sat_Sun$user_count , main = ""Saturday to Sunday"", xlab = ""Active Users"")"
