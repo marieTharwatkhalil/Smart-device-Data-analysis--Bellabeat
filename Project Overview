@@ -22,3 +22,6 @@ Project Hierarchy
   --> SQL/bellabeat_cleaning (Cleaning in SQL) 
      --> bellabeat_cleaning folder contains (all SQL server Queries) 
      --> BigQuery_queries.txt (links to BigQuery queries)
+    
+  --> Documentation folder contains change log and Cleaning Documentation
+
