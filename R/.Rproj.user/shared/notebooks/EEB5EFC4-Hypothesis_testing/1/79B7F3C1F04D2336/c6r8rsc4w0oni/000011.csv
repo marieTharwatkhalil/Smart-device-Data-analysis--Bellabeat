@@ -1,0 +1,1 @@
+"0","weekdays_df %>% group_by(weekday) %>% summarise(sum = sum(user_count))"

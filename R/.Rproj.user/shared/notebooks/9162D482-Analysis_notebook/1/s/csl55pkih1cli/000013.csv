@@ -1,0 +1,5 @@
+"0","#png(""Active_Users_and_Weight_logs.png"", width = 400, height = 400)"
+"0","pie(users_summary_weight_no_tatal$users_perc,"
+"0","    labels = users_summary_weight_no_tatal$users_perc_lbl, "
+"0","    col = c(""green"",""red""),"
+"0","    main = ""Active Users and Weight logs"") "

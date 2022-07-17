@@ -1,0 +1,42 @@
+calculating the percentage of non zero values in LoggedActivitiesDistance 
+https://console.cloud.google.com/bigquery?sq=851715225059:8668d3a998d84cc48afeac201196387a 
+
+Check NULL Values
+https://console.cloud.google.com/bigquery?sq=851715225059:6c304ce0afaf42e9b566ebb552d710c1
+
+check MIN- MAX
+https://console.cloud.google.com/bigquery?sq=851715225059:44304779b83d41cb931267295998a188
+
+update table round values
+https://console.cloud.google.com/bigquery?sq=851715225059:ee077b7a2a844a5bb3fff3facc6cc854
+
+Calculate Percentage (0 Values )
+https://console.cloud.google.com/bigquery?sq=851715225059:138f80ac6e064c9d8e0b34f7248b4590 
+
+https://console.cloud.google.com/bigquery?sq=851715225059:0382ca67061e4163b29f8f5be8039883
+
+https://console.cloud.google.com/bigquery?sq=851715225059:737838e8e54a48cda45cbd0efaca1a04 
+
+https://console.cloud.google.com/bigquery?sq=851715225059:ef7662898bbc45db8e4af193bb4c4d32
+
+https://console.cloud.google.com/bigquery?sq=851715225059:f44baa48f0cd465bb41f27b5ad4f9539
+
+https://console.cloud.google.com/bigquery?sq=851715225059:020e5d1116344066b30ae626cb3510fc 
+
+https://console.cloud.google.com/bigquery?sq=851715225059:c1ae95870bad4dbeaffeee212bcbfb2e 
+
+
+Calculate percentage of rows where  total distance not equal to tracker distance 
+https://console.cloud.google.com/bigquery?sq=851715225059:b371eb6ffb1f4723ba470fa324ec4acc
+
+check duplicates 
+https://console.cloud.google.com/bigquery?sq=851715225059:cf234497d4934919935c8f9f69d9c289
+
+count all rows 
+https://console.cloud.google.com/bigquery?sq=851715225059:2f95db83a1df4a1b8a55e2aeaced33ad
+
+explore activity Daily Dataset 
+https://console.cloud.google.com/bigquery?sq=851715225059:06446a89c3a84735905b24466b49ea7e
+
+Selecting important columns 
+https://console.cloud.google.com/bigquery?sq=851715225059:093d035b0a23489c81c73f198aca2527

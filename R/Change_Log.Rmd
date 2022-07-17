@@ -1,0 +1,80 @@
+---
+title: "Change_Log"
+author: "Marie Khalil"
+date: '`r Sys.Date()`'
+output:
+  word_document: default
+  html_document: default
+---
+ 
+# Changelog 
+ this file contains the notable changes to the project
+ 
+Version 00 (02.05.2022)
+
+## NEW 
+  - Created new folders for (Activities, Calories, heartrate, intensities, MET, sleep, steps, weight) and moved their corresponding sheets inside each one of them. 
+  
+  - Combined minutes, hourly, daily data in one xls file (if possible) new xls files:
+    * *Calories_hourly_daily*
+    * *Intensities_hourly_daily*
+    * *sleep_min_daily* 
+    * *steps_min_hourly_daily*
+
+## Changes 
+  - Rename xls-csv files 
+    * weightLogInfo_merged --> New name = *weight* 
+    * minuteMETsNarrow_merged --> New name = *MET_min*
+    * minuteIntensitiesNarrow_merged --> 
+  New name = *Intensities_min*
+  All of them xls files 
+
+Version 01.0 (05.05.2022)
+
+## NEW 
+  - Created a new table *activity_daily_important_cols_05_05_2022_V01* that does not contain 3 columns from the original table *activity_daily*.
+Removed columns ( *TrackerDistance*, *LoggedActivitiesDistance*, *SedentaryActiveDistance*) 
+more than 90% of their values are 0. 
+
+## Changes 
+
+Table name *activity_daily_important_cols_05_05_2022_V01*
+
+  - Rounded numbers (FLOAT) to 2 decimals in 4 columns
+    * *TotalDistance*,	
+    * *VeryActiveDistance*,	
+    * *ModeratelyActiveDistance*,	
+    * *LightActiveDistance*	
+
+Version 01.0 (06.05.2022)
+
+## NEW 
+  - Created two new tables 
+    * *activity_daily_cleaned__06_05_2022_V01.01.csv* 
+    * *calories_daily_cleaned_06_05_2022_v01.csv* their column names are in snake case. 
+  * path : Data/cleaned_data
+  
+Version 01.0 (07.05.2022)
+
+## NEW 
+  - Created two new tables 
+    * *weight_daily_cleaned_07_05_2022_v01.csv*
+    * *sleep_daily_cleaned_07_05_2022_v01.csv* their column names are in snake case.
+  - Added 2 new columns to show number of hours by calculating (number of minutes / 60) 
+    * *total_hours_asleep*  
+    * *total_hours_in_bed*
+
+## Changes 
+
+  - Removed *Fat* column (97% NA) from *weight_daily_cleaned_07_05_2022_v01.csv*
+  - Deleted 3 duplicate rows from *sleep_daily_cleaned_07_05_2022_v01.csv* 
+
+Version 02.0 (08.05.2022)
+
+## NEW 
+  - Joined part of *activity_daily_important_cols_05_05_2022_V01*, and all columns *sleep_daily_cleaned_08_05_2022_v02.csv* new table  *activity_sleep_daily_joined_08_05_2022_v01.csv*
+  - Removed *NULL* values from *activity_sleep_daily_joined_08_05_2022_v01.csv* new table  *activity_sleep_daily_joined_not_null_08_05_2022_v02.csv* 
+  - Joined the new table *activity_sleep_daily_joined_08_05_2022_v02.csv* and *weight_daily_cleaned_08_05_2022_v02.csv* the new table is *activity_sleep_weight_daily_joined_08_05_2022_v02.csv* 
+
+## Changes
+   - Changed column *date* from __Datetime__ to __Date__ new table *weight_daily_cleaned_08_05_2022_v02.csv*         

@@ -1,0 +1,3 @@
+"0","weekdays_test_df <- weekdays_df_2 %>% "
+"0","  select(user_count,day_type)"
+"2","Adding missing grouping variables: `activity_date`"

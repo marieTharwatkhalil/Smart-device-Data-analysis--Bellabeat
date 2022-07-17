@@ -1,0 +1,7 @@
+"0","users_log_weight <- activity_sleep_weight %>% filter(weight_kg >=1)"
+"0",""
+"0","weight_logs <- users_log_weight %>% "
+"0","  group_by(id) %>% "
+"0","  summarise(weight_logs_count = n())"
+"0",""
+"0","weight_logs"

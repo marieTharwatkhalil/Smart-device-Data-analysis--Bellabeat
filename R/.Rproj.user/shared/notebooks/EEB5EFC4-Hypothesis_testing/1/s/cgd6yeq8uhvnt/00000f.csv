@@ -1,0 +1,6 @@
+"0","ggplot(data=weekdays_df)+ "
+"0","  geom_boxplot(aes(x=weekday,y = user_count),"
+"0","               outlier.colour=""red"","
+"0","               outlier.shape=8,"
+"0","               outlier.size=4)+"
+"0","  ylim(7,18)"

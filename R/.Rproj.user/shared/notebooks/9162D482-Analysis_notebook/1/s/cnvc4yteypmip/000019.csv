@@ -1,0 +1,6 @@
+"0","#png(""Active_users_perday.png"", width = 800, height = 500)"
+"0","ggplot(data = users_per_day, aes(x= activity_date, y = users_count)) +"
+"0","  geom_line()+"
+"0","  ggtitle(""Active users per day"")+"
+"0","  xlab(""Day"")+"
+"0","  ylab(""Number of users"")"

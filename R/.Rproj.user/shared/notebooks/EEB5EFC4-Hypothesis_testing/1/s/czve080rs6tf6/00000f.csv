@@ -1,0 +1,2 @@
+"0","weekdays_test_df <- weekdays_test_df %>% "
+"0","  subset(select= -activity_date)"

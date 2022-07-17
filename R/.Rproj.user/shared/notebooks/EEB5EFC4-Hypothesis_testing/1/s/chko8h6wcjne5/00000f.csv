@@ -1,0 +1,2 @@
+"0","Sat_Monday_test_df_csv$day_type <- factor(Sat_Monday_test_df_csv$day_type, c(""Sat_Sun"",""Monday""), labels = c(1,3))"
+"0",""

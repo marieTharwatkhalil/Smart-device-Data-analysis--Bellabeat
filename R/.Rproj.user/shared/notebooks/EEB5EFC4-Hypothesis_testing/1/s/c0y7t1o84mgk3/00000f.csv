@@ -1,0 +1,4 @@
+"0","weekdays_df <- activity_sleep_weight_orderd %>%"
+"0","  group_by(activity_date,weekday) %>% summarise(user_count= n())"
+"2","`summarise()` has grouped output by 'activity_date'. You can override using the `.groups` argument."
+"0","weekdays_df "

@@ -1,0 +1,4 @@
+"0","table_sumarry <- activity_sleep_weight %>% group_by(id) %>%"
+"0","  summarise(days_count = n(), avg_steps = mean(total_steps), avg_sleep = mean(total_hours_asleep))"
+"0",""
+"0","table_sumarry"

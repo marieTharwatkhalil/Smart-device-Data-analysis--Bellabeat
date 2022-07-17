@@ -1,0 +1,8 @@
+"0","Sat_Sun_subset <- weekdays_test_df %>% "
+"0","  filter(day_type == ""Sat_Sun"")"
+"0",""
+"0","Tue_Fri_subset <- weekdays_test_df %>% "
+"0","  filter(day_type == ""Tue_Fri"")"
+"0",""
+"0","Monday_subset <- weekdays_test_df %>% "
+"0","  filter(day_type == ""Monday"")"

@@ -1,0 +1,4 @@
+"0","barplot(users_percent$user_count, names.arg = users_percent$days_range,"
+"0","        xlab = ""Days count range"", ylab = ""Number of Users"", "
+"0","        col = ""darkblue"", main = ""Active users Vs number of days they used the device"","
+"0","        font.main = 1 )"

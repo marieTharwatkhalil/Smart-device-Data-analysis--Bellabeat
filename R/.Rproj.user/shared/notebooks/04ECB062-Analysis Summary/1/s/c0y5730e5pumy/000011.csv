@@ -1,0 +1,2 @@
+"0","pie_img<- load.image(""Piechart_users_days.png"")"
+"0","plot(pie_img)"

@@ -1,0 +1,51 @@
+"0","library(imager)"
+"2","Loading required package: magrittr
+"
+"2","
+Attaching package: ‘magrittr’
+
+"
+"2","The following object is masked from ‘package:purrr’:
+
+    set_names
+
+"
+"2","The following object is masked from ‘package:tidyr’:
+
+    extract
+
+"
+"2","
+Attaching package: ‘imager’
+
+"
+"2","The following object is masked from ‘package:magrittr’:
+
+    add
+
+"
+"2","The following object is masked from ‘package:stringr’:
+
+    boundary
+
+"
+"2","The following object is masked from ‘package:tidyr’:
+
+    fill
+
+"
+"2","The following objects are masked from ‘package:stats’:
+
+    convolve, spectrum
+
+"
+"2","The following object is masked from ‘package:graphics’:
+
+    frame
+
+"
+"2","The following object is masked from ‘package:base’:
+
+    save.image
+
+"
