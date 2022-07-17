@@ -1,0 +1,8 @@
+This is a data analysis project for analysing Fitbit Data to help marketing team in Bellabeat (As Described in the scenario)
+
+you can find R files and some SQL queries in this repo 
+
+ALL SQL Queries (BigQuery links) are in this file 
+https://github.com/marieTharwatkhalil/Bellabeat/blob/main/SQL/bellabeat_cleaning/BigQuery_queries.txt
+
+Dashboard : https://public.tableau.com/views/FitBit_16544993190490/Deviceusage?:language=en-US&:display_count=n&:origin=viz_share_link
